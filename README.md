@@ -1,5 +1,13 @@
 # FaladoresKit
 
+<a href="https://swift.org">
+        <img src="http://img.shields.io/badge/swift-5.2+-brightgreen.svg" alt="Swift 5.2">[![codebeat badge](https://codebeat.co/badges/f9862ce3-c4ec-4763-925d-b5dbef24989f)](https://codebeat.co/projects/github-com-micheltlutz-faladoreskit-develop)
+<a href="https://swift.org/package-manager">
+<img src="https://img.shields.io/badge/swiftpm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
+</a>[![](https://img.shields.io/badge/Protected_by-Hound-a873d1.svg)](https://houndci.com)
+
+------------
+
 Somos dois amigos que gostamos de programar e reunimos utilitários diversos de Swift para facilitar o desenvolvimento de aplicativos que criamos por lazer.
 
 
